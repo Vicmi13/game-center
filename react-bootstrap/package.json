@@ -4,10 +4,12 @@
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.5.0",
+    "axios": "^0.18.0",
     "body-parser": "^1.18.3",
     "clientjs": "^0.1.11",
     "express": "^4.16.4",
     "htmltojsx": "^0.3.0",
+    "jquery": "^3.3.1",
     "materialize-css": "^1.0.0-rc.2",
     "react": "^16.6.1",
     "react-bootstrap": "^0.32.4",
@@ -17,7 +19,8 @@
     "react-router": "^4.3.1",
     "react-router-dom": "^4.3.1",
     "react-scripts": "2.1.1",
-    "reactstrap": "^6.5.0"
+    "reactstrap": "^6.5.0",
+    "popper.js": "^1.14.4"
   },
   "scripts": {
     "start": "react-scripts start",

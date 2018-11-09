@@ -1,25 +1,32 @@
-#buscar{
+#buscar {
     padding-right: 130px;
 }
-.iconUser{
+
+.iconUser {
     width: 30px;
     height: 30px;
     margin-right: 1.5rem;
 }
 
-.usu{
+.usu {
     padding-top: 9px;
     padding-right: 3rem;
 }
 
-.carrusel{
+.carrusel {
     width: 48rem;
     margin-left: 25rem;
     margin-top: 1rem;
+    height: 2;
+}
+
+.carousel {
     height: auto;
 }
 
-.carousel
-{
-    height: auto;
+.index {
+    background-image: url('https://hdwallsource.com/img/2018/9/days-gone-video-game-wallpaper-62618-64591-hd-wallpapers.jpg');
+    background-size: cover;
+    height: 1035px;
+    width: 1519px;
 }
