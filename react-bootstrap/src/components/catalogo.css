@@ -1,8 +1,12 @@
 .tabs1{
     width: 30%;
 }
+.tabs{
+    width: 187%
+}
 .row .col.s3 {
-    width: 50%;
+    border: 1px dotted rgb(223, 223, 223);
+    width: 36%;
     margin-left: auto;
     left: auto;
     right: auto;

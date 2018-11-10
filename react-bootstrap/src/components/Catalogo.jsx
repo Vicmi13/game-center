@@ -33,15 +33,14 @@ export default class Catalogo extends Component {
         <div>
           <Navbar />
         </div>
-
+<br/>
         <div className='tabs1'>
           <div className="row">
             <div className="col s12 tab1">
               <ul className="tabs">
-                <li className="tab col s3"><a href="#test1">usuarios</a>
-                  <Usuarios />
-                </li>
-                <li className="tab col s3 t2"><a className="active" href="#test2">Juegos</a></li>
+                  <li className="tab col s3"><a href="/Usuarios/">usuarios</a>
+                  </li>
+                  <li className="tab col s3 t2"><a className="active" href="/Juegos/">Juegos</a></li>
               </ul>
             </div>
           </div>

@@ -30,3 +30,13 @@
     height: 1035px;
     width: 1519px;
 }
+
+.blog-card{
+    margin-left: 8rem;
+}
+.card-content{
+    background: goldenrod; 
+}
+.card-action{ 
+    background: lemonchiffon!important; 
+}
